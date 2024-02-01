@@ -42,13 +42,13 @@ On March 1st, 1984... UoSAT-2 was launched from Vandenberg SLC-2W on a Delta 392
 
 I was able to find this video deeply hidden on the *University of Surrey* servers - sit back and enjoy this lovely clip of the satellite created by **Harold Price, NK6K**!
 
-<video poster="files/uosat-2-coming-home-poster.png" controls>
+<video poster="files/uosat-2-coming-home-poster.png" width="100%" controls>
     <source src="{{ site.my-media-path }}files/uosat-2-coming-home.mp4" type="video/mp4">
 </video>
 Recovered video from UoS file server, video credit Harold Price, NK6K
 {: .lh-tight .fs-2 }
 
-Did you know, UO-11 was the most rapidly designed OSCAR satellite - from concept to launch in only 5 months!
+Did you know, UO-11 was the most rapidly designed OSCAR satellite? - from concept to launch in only 5 months!
 
 It was joked by **Martin Sweeting (G3YJO)**, who pioneered the smallsat revolution with UoSAT-1 + UoSAT-2 and is one of the founders for SSTL, on a video from 2020 that they were still building the satellite hardware on the launchpad but wouldn't dare to tell anyone at the time
 
@@ -68,7 +68,7 @@ UoSAT-2 can still be recieved to this day, supprisingly after 40 years of operat
 The spacecraft operates a VHF beacon which transmits AFSK modulation every 30 seconds
 
 {: .info }
-> Be aware that the satellite operates in a 10.3 day ON, 10.4 day OFF cycle
+> Be aware that the satellite operates in a 10.3 day **ON**, 10.4 day **OFF** cycle
 
 
 ## Beacon Information
@@ -82,6 +82,8 @@ The signal can be recieved in any way you would like - however, it is suggested 
 
 
 ## Software
+
+Demodulating UoSAT-2 is a two step process with the software below
 
 ### MIXW
 
@@ -152,4 +154,4 @@ By following the instructions you can cycle and read the telemetry data you have
 </script>
 <script type="text/javascript" src="https://www.n2yo.com/js/widget-tracker.js"></script>
 
-[1]:{{ site.url }}/satellites/files/u2tm.zip
+[1]:{{ site.url }}/files/u2tm.zip

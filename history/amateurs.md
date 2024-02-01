@@ -8,7 +8,7 @@ has_toc: true
 
 {% include math.html %}
 
-# **Radio Amateur Wall of Fame**
+<h1><b><span style="color:Gold">Radio Amateur Wall of Fame</span></b></h1>
 
 A list of the Radio Amateurs that have been a member of EARS or have been trained by us
 

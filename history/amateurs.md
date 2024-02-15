@@ -10,7 +10,7 @@ has_toc: true
 
 <h1><b><span style="color:Gold">Radio Amateur Wall of Fame</span></b></h1>
 
-A list of the Radio Amateurs that have been a member of EARS or have been trained by us
+A list of the Radio Amateurs that have been a member of **EARS** or have been trained by us
 
 <ul>
 {% for member in site.data.members %}

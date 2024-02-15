@@ -4,6 +4,6 @@ layout: home
 nav_order: 1
 ---
 
-<h1>EARS-cive</h1>
+<h1><b>EARS-cive</b></h1>
 
-Welcome to my website - more to come!
+Welcome to the **EARS-cive**... or the EARS Archive which contains the fascinating history of our Society - still very much WIP so more to come!
